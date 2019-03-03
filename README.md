@@ -8,13 +8,13 @@ LAB 07
 
 ### Links and Resources
 * [repo](https://github.com/erikmjohnson/lab-07-testing)
-* [travis](https://travis-ci.com/erikmjohnson/file_transformer)
+* [travis](https://travis-ci.com/erikmjohnson/lab-07-testing)
 
 ### Modules
 none
 
 #### Tests
 
-* To run tests, first use `node index.js`, then use `npm run test` command.
+* To run tests use `npm run test` command.
 
 #### UML
