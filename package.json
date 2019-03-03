@@ -4,8 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node server.js",
-    "lint": "eslint \"**/*.js\"",
+    "start": "node index.js",
     "test": "jest --coverage --verbose"
   },
   "keywords": [],
@@ -14,13 +13,7 @@
   "dependencies": {
     "express": "^4.16.4",
     "jest": "^24.1.0",
-    "nodemon": "^1.18.10",
     "supertest": "^3.4.2"
   },
-  "devDependencies": {
-    "eslint": "^5.15.0",
-    "eslint-config-airbnb-base": "^13.1.0",
-    "eslint-plugin-import": "^2.16.0",
-    "eslint-plugin-jest": "^22.3.0"
-  }
+  "devDependencies": {}
 }
