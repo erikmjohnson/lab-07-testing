@@ -2,7 +2,7 @@ LAB 07
 ==============================================
 
 ## LAB 07
-[![Build Status](https://travis-ci.com/erikmjohnson/file_transformer.svg?branch=master)](https://travis-ci.org/vladimirsan/cf-travis-deployment)
+[![Build Status](https://travis-ci.com/erikmjohnson/lab-07-testing.svg?branch=master)
 
 ### Author: Erik M Johnson
 
