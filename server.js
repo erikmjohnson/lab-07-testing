@@ -29,7 +29,7 @@ app.use( (err,req,res,next) => {
 // Additionally, because we're now a module and not a standalone app, we need to export a start() method
 // and let something else require and start us up with whatever port it wants
 module.exports = {
-  //has all routes;
+  //has all routes
   server: app,
   //start server
   start: port => {
