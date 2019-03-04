@@ -11,10 +11,12 @@ LAB 07
 * [travis](https://travis-ci.com/erikmjohnson/lab-07-testing)
 
 ### Modules
-none
+#### server.js
+* server -> has all server paths
+* start -> starts server
 
 #### Tests
 
-* To run tests use `npm run test` command.
+* To run tests use `npm test` command.
 
 #### UML

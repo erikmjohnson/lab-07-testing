@@ -33,7 +33,7 @@ module.exports = {
   server: app,
   //start server
   start: port => {
-    let PORT = port || 3000;
+    let PORT = process.env.PORT || 8080;
     app.listen(PORT, () => console.log(`Listening on ${PORT}`));
   }
 };
